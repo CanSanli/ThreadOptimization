@@ -1,0 +1,14 @@
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\bin\Debug\netcoreapp3.1\Lock.exe
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\bin\Debug\netcoreapp3.1\Lock.deps.json
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\bin\Debug\netcoreapp3.1\Lock.runtimeconfig.json
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\bin\Debug\netcoreapp3.1\Lock.runtimeconfig.dev.json
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\bin\Debug\netcoreapp3.1\Lock.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\bin\Debug\netcoreapp3.1\Lock.pdb
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.csproj.AssemblyReference.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.AssemblyInfoInputs.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.AssemblyInfo.cs
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.csproj.CoreCompileInputs.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.pdb
+C:\Users\cino8\source\repos\SemaphoreDemo\Lock\obj\Debug\netcoreapp3.1\Lock.genruntimeconfig.cache

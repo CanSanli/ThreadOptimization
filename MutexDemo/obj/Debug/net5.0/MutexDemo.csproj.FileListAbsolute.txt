@@ -1,0 +1,16 @@
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.exe
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.deps.json
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.runtimeconfig.json
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.runtimeconfig.dev.json
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\ref\MutexDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.pdb
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.csproj.AssemblyReference.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.AssemblyInfoInputs.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.AssemblyInfo.cs
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.csproj.CoreCompileInputs.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\ref\MutexDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.pdb
+C:\Users\cino8\source\repos\SemaphoreDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.genruntimeconfig.cache

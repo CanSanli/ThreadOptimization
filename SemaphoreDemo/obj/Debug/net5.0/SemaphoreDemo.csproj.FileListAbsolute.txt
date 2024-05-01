@@ -1,0 +1,16 @@
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.exe
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.deps.json
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.runtimeconfig.json
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.runtimeconfig.dev.json
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\ref\SemaphoreDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\bin\Debug\net5.0\SemaphoreDemo.pdb
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.csproj.AssemblyReference.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.AssemblyInfoInputs.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.AssemblyInfo.cs
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\ref\SemaphoreDemo.dll
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.pdb
+C:\Users\cino8\source\repos\SemaphoreDemo\SemaphoreDemo\obj\Debug\net5.0\SemaphoreDemo.genruntimeconfig.cache
